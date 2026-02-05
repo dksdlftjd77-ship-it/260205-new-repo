@@ -1,2 +1,12 @@
 ## 260205-new-repo
-#인생은 아름다워
+
+This is repository.
+
+See [Demo](hhttps://www.google.com/)
+
+## How to Start
+
+## Features
+
+- fibo with recursion
+- Summation
